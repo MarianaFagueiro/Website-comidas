@@ -1,0 +1,6 @@
+import entrada from "../../imagens/entrada.jpg"
+
+export const comidas = [
+    {Nome:"entrada", id:1, scr: comidas}
+    {Nome:"principal", id:2, scr: comidas}
+]
